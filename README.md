@@ -12,24 +12,24 @@
 
   </a>
   
-  <a href="https://github.com/TroJanzHEX/Auto-Filter-Bot-V2/fork">
+  <a href="https://github.com/LuckyRajputOP/Auto-Filter-Bot-V2/fork">
     <img src="https://img.shields.io/github/forks/TroJanzHEX/Auto-Filter-Bot-V2?label=Fork&style=social">
 
   </a>  
 </p>
 
-[![TroJanz](https://img.shields.io/badge/TroJanzHEX-Channel-orange?style=for-the-badge&logo=telegram)](https://telegram.dog/TroJanzHEX)  
+[![Class9th10th](https://img.shields.io/badge/Class9th10th-Channels-orange?style=for-the-badge&logo=telegram)](https://t.me/all_channel_links)  
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![TroJanz](https://img.shields.io/badge/TroJanzHEX-Support-red?style=flat&logo=telegram)](https://telegram.dog/TroJanzSupport)  [![TroJanz](https://img.shields.io/badge/TroJanzHEX-Website-red?style=flat&logo=CodersRank)](https://TroJanzHEX.me)  
+[![Lucky](https://img.shields.io/badge/About-Lucky-red?style=flat&logo=telegram)](https://telegram.dog/Ho_Iz_Lucky)
 ㅤㅤㅤㅤㅤㅤㅤ  
-[![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/TroJanzHEX/Auto-Filter-Bot-V2/blob/main/LICENSE)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/TroJanzHEX/Auto-Filter-Bot-V2)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue?style=flat)](https://github.com/LuckyRajputOP/Auto-Filter-Bot-V2/blob/main/LICENSE)  [![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/LuckyRajputOP/Auto-Filter-Bot-V2)
 
 
 
 
 
 #### You can call this as an Auto Filter Bot if you like :D
-#### This is Version 2 of [Auto Filter Bot](https://github.com/TroJanzHEX/Auto-Filter-Bot)
+#### This is Version 2 of [Auto Filter Bot](https://github.com/LuckyRajputOP/Auto-Filter-Bot-V2)
 #### Bot simply search for the files from provided channel according to given query and gives link to those files as buttons!
 
 ## How to use the bot
@@ -71,11 +71,11 @@ Thanks to [InfotelGroup](https://telegram.dog/InFoTelGroup) and [Erich Daniken](
 ## Installation
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TroJanzHEX/Auto-Filter-Bot-V2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LuckyRajputOP/Auto-Filter-Bot-V2)
 
 ### Deploy in your vps
 ```sh
-git clone https://github.com/TroJanzHEX/Auto-Filter-Bot-V2
+git clone https://github.com/LuckyRajputOP/Auto-Filter-Bot-V2
 cd Auto-Filter-Bot-V2
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
